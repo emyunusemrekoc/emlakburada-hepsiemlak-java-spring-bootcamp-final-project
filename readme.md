@@ -72,6 +72,10 @@ https://documenter.getpostman.com/view/18399023/UVsSP4PE
 
 ![advert-coverage](https://user-images.githubusercontent.com/81576354/159820279-24ed7f6f-427c-4767-80df-6e5a809947d0.png)
 
+#### AdvertStatus
+
+![advertstatus-coverage](https://user-images.githubusercontent.com/81576354/159822763-834e6212-3a9e-4412-b0a0-03f1580d273e.png)
+
 #### User
 
 ![user-coverage](https://user-images.githubusercontent.com/81576354/159820297-8959740d-a50c-4c21-8831-8b7c061a9c2e.png)

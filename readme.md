@@ -82,7 +82,7 @@ https://documenter.getpostman.com/view/18399023/UVsSP4PE
 
 #### Auth
 
-![auth-controller](https://user-images.githubusercontent.com/81576354/159821421-795389ea-756a-4465-a785-6a3fdc3dc292.png)
+![auth-coverage](https://user-images.githubusercontent.com/81576354/159821483-3cf7b103-a58f-4605-a67f-ae3550e177fc.png)
 
 ## Kullanılan Teknolojiler
 

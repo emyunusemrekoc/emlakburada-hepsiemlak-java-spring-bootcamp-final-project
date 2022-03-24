@@ -80,6 +80,10 @@ https://documenter.getpostman.com/view/18399023/UVsSP4PE
 
 ![purchase-coverage](https://user-images.githubusercontent.com/81576354/159820312-8d88d05d-770a-40d6-b329-10f4c8ff77b1.png)
 
+#### Auth
+
+![auth-controller](https://user-images.githubusercontent.com/81576354/159821421-795389ea-756a-4465-a785-6a3fdc3dc292.png)
+
 ## Kullanılan Teknolojiler
 
 - Service Discovery

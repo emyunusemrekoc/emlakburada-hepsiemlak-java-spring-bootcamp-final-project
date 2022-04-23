@@ -91,7 +91,7 @@ https://documenter.getpostman.com/view/18399023/UVsSP4PE
 ## Kullanılan Teknolojiler
 
 - Service Discovery
-- Feign Client
+- Open Feign
 - RabbitMQ
 - PostgreSQL
 - Modelmapper

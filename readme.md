@@ -1,5 +1,5 @@
 
-# EmlakBurada - Hepsiemlak Java Spring Bitirme Projesi
+# EmlakBurada (Microservice) - Hepsiemlak Java Spring Bitirme Projesi
 
 Bu proje bir emlak sitesi backend projesidir. 
 
